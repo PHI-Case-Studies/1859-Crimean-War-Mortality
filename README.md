@@ -6,7 +6,7 @@ This repository was created for use by CDC programs to collaborate on public hea
 
 ### Interact with the Case Study
 
-[![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/PHI-Case-Studies/1854-Cholera-Outbreak-London-Basic/master) [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/PHI-Case-Studies/1854-Cholera-Outbreak-London-Basic) 
+[![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/PHI-Case-Studies/1859-Crimean-War-Mortality/master) [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/PHI-Case-Studies/1859-Crimean-War-Mortality) 
 
 This is a **digital case study** built with [Jupyter Notebook](https://jupyter.org/) and Docker about Florence Nightingale's analysis and visualization work on Crimean War data. Click on the Binder or Azure link above to interact with this digital case study. Wait a few minutes for the binder or Azure notebook service to complete its setup and launch. Enjoy the rest of the story after you launch the case study.
 

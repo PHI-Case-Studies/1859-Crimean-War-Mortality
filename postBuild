@@ -1,0 +1,3 @@
+conda install -y -c conda-forge folium=0.10* jinja2=2.10* pandas=0.25*
+
+pip install --no-cache-dir 'plotly==4.3.0' 'plotly-geo==1.0.0'
